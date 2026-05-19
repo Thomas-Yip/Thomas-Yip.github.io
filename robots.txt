@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Thomas-Yip.github.io/al-folio/sitemap.xml
+Sitemap: https://Thomas-Yip.github.io/sitemap.xml
