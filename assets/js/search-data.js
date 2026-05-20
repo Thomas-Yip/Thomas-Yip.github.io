@@ -402,9 +402,14 @@ ninja.data = [{
               window.location.href = "/projects/hkust_rov/";
             },},{id: "projects-robot-assistance-using-vla-year-4",
           title: 'Robot assistance using VLA (Year 4)',
-          description: "HKUST Final Year Project controlling a robot arm",
+          description: "HKUST Final Year Project&#39;:&#39;  Robotic Arm System with AI Control Policies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hkust_vla_robot/";
+            },},{id: "projects-research-intern-year-3",
+          title: 'Research intern (Year 3)',
+          description: "Develop a high-fidelity simulation environment for underwater robot",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/research_intern/";
             },},{id: "projects-sauvc-2025-autonomous-underwater-vehicle-year-3",
           title: 'SAUVC 2025 Autonomous Underwater Vehicle (Year 3)',
           description: "AUV development for the Singapore AUV Challenge",
