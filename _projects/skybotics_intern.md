@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Skybotics Software Engineer Intern (Year 2)
+title: Skybotics Software Engineer Intern 
 description: Drone flying algorithm and finite state machine development
 img: assets/img/intern_proj_page.jpg
 importance: 1

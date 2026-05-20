@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HKUST Robotics Team ROV (2023 - 2024) (Year 1 & 2)
+title: HKUST Robotics Team ROV (2023 - 2024) 
 description: Software engineer and lead for MATE ROV and VRX competitions
 img: assets/img/rov_proj_page.jpg
 importance: 1

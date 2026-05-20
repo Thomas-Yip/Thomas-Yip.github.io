@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Robot assistance using VLA (Year 4)
+title: Robot assistance using VLA 
 description: HKUST Final Year Project$:$ Robotic Arm System with AI Control Policies
 img: assets/img/fyp_proj_page.jpg
 importance: 1

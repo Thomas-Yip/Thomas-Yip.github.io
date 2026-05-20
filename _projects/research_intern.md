@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research intern (Year 3) 
+title: Research intern 
 description: Develop a high-fidelity simulation environment for underwater robot
 img: assets/img/research_intern_proj_page.png
 importance: 2

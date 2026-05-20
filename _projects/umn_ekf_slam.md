@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UMN 5551 EKF-SLAM (Year 3)
+title: UMN 5551 EKF-SLAM 
 description: Developed an EKF-SLAM algorithm from scratch for drone navigation
 img: assets/img/5551_proj_page.jpg
 importance: 2

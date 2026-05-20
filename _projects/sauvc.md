@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SAUVC 2025 Autonomous Underwater Vehicle (Year 3) 
+title: SAUVC 2025 Autonomous Underwater Vehicle 
 description: AUV development for the Singapore AUV Challenge
 img: assets/img/sauvc_proj_page.jpg
 importance: 2
