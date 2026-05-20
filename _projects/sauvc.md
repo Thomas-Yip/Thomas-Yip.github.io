@@ -3,8 +3,8 @@ layout: page
 title: SAUVC 2025 Autonomous Underwater Vehicle (Year 3) 
 description: AUV development for the Singapore AUV Challenge
 img: assets/img/sauvc_proj_page.jpg
-importance: 6
-category: work
+importance: 2
+category: Competitions
 ---
 
 Developed an Autonomous Underwater Vehicle (AUV) within a tight one-month timeframe and passed the competition video qualification on the first attempt for HKUST.

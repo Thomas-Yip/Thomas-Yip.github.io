@@ -3,8 +3,8 @@ layout: page
 title: HKUST Robotics Team ROV (2023 - 2024) (Year 1 & 2)
 description: Software engineer and lead for MATE ROV and VRX competitions
 img: assets/img/rov_proj_page.jpg
-importance: 5
-category: work
+importance: 1
+category: Competitions
 ---
 
 **Role:** Software Engineer (Spring 2023) / Software Engineer Lead (Summer 2023 – Spring 2024)  

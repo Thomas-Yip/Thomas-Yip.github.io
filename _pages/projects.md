@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of my projects during undergraduate studies.
 nav: true
 nav_order: 3
-display_categories: [work]
+display_categories: [Work, Course projects, Competitions]
 horizontal: false
 ---
 
