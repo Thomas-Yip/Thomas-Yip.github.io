@@ -395,33 +395,38 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-hkust-robotics-team-rov-2023-2024-year-1-amp-2",
-          title: 'HKUST Robotics Team ROV (2023 - 2024) (Year 1 &amp;amp; 2)',
+          section: "News",},{id: "projects-emia-2020-course-project-prototype",
+          title: 'EMIA 2020 course project prototype',
+          description: "An app helping elders to build a healthy living habit",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/emia2020/";
+            },},{id: "projects-hkust-robotics-team-rov-2023-2024",
+          title: 'HKUST Robotics Team ROV (2023 - 2024)',
           description: "Software engineer and lead for MATE ROV and VRX competitions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hkust_rov/";
-            },},{id: "projects-robot-assistance-using-vla-year-4",
-          title: 'Robot assistance using VLA (Year 4)',
+            },},{id: "projects-robot-assistance-using-vla",
+          title: 'Robot assistance using VLA',
           description: "HKUST Final Year Project$:$ Robotic Arm System with AI Control Policies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hkust_vla_robot/";
-            },},{id: "projects-research-intern-year-3",
-          title: 'Research intern (Year 3)',
+            },},{id: "projects-research-intern",
+          title: 'Research intern',
           description: "Develop a high-fidelity simulation environment for underwater robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/research_intern/";
-            },},{id: "projects-sauvc-2025-autonomous-underwater-vehicle-year-3",
-          title: 'SAUVC 2025 Autonomous Underwater Vehicle (Year 3)',
+            },},{id: "projects-sauvc-2025-autonomous-underwater-vehicle",
+          title: 'SAUVC 2025 Autonomous Underwater Vehicle',
           description: "AUV development for the Singapore AUV Challenge",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sauvc/";
-            },},{id: "projects-skybotics-software-engineer-intern-year-2",
-          title: 'Skybotics Software Engineer Intern (Year 2)',
+            },},{id: "projects-skybotics-software-engineer-intern",
+          title: 'Skybotics Software Engineer Intern',
           description: "Drone flying algorithm and finite state machine development",
           section: "Projects",handler: () => {
               window.location.href = "/projects/skybotics_intern/";
-            },},{id: "projects-umn-5551-ekf-slam-year-3",
-          title: 'UMN 5551 EKF-SLAM (Year 3)',
+            },},{id: "projects-umn-5551-ekf-slam",
+          title: 'UMN 5551 EKF-SLAM',
           description: "Developed an EKF-SLAM algorithm from scratch for drone navigation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/umn_ekf_slam/";
