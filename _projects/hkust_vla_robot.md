@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robot assistance using VLA (Year 4)
-description: HKUST Final Year Project controlling a robot arm
+description: HKUST Final Year Project':'  Robotic Arm System with AI Control Policies
 img: assets/img/fyp_proj_page.jpg
 importance: 1
 category: work
@@ -18,4 +18,4 @@ Throughout the entire project, we:
 
 [Demo video](https://www.youtube.com/watch?v=QZBQsq89Mpk)
 
-**Skills Earned:** Vision-Language-Action (VLA) Models, Machine Learning Fine-Tuning, Agentic AI
+**Skills Earned:** Vision-Language-Action (VLA) Models, VLA Fine-Tuning, Agentic AI

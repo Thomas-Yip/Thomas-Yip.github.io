@@ -3,7 +3,7 @@ layout: page
 title: SAUVC 2025 Autonomous Underwater Vehicle (Year 3) 
 description: AUV development for the Singapore AUV Challenge
 img: assets/img/sauvc_proj_page.jpg
-importance: 5
+importance: 6
 category: work
 ---
 
@@ -15,4 +15,4 @@ For my first AUV project, I designed a robust navigation algorithm for the quali
 
 [Demo video](https://youtu.be/3SxfcRNckAY?si=4WhmB3yf-YzAmUZb)
 
-**Skills Earned:** Rapid Development, Hardware Design, Computer vision  
+**Skills Earned:** Rapid Development, Hardware Design, Computer vision.  

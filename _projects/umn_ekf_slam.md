@@ -11,6 +11,6 @@ As part of the course final project, I developed an EKF-SLAM algorithm from scra
 
 When the weather is bad and cloudy, the GPS signal is often difficult to reach the ground. To address this, we developed the EKF-SLAM algorithm so the drone can provide the correct coordinates of lost hikers without relying on the GPS, functioning purely on mapping and localization techniques.
 
-Project page: [Link](https://github.com/Thomas-Yip/csci5551)
+[Project page](https://github.com/Thomas-Yip/csci5551)
 
 **Skills Earned:** EKF-SLAM, State Estimation, Robotics Algorithms.
