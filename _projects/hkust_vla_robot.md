@@ -18,9 +18,4 @@ Throughout the entire project, we:
 
 [Project video](https://cse.hkust.edu.hk/ug/fyp/posters/gallery/2025-2026/92_DAN5_Media.mp4)
 
-<figure>
-    <img src="../../assets/img/firstSuccess.png" width="300" height="400">
-    <figcaption>Successfully finetuning a VLA model the first time.</figcaption>
-</figure>
-
 **Skills Earned:** Vision-Language-Action (VLA) Models, VLA Fine-Tuning, Agentic AI
