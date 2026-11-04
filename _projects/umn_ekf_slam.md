@@ -13,4 +13,9 @@ When the weather is bad and cloudy, the GPS signal is often difficult to reach t
 
 [Project page](https://github.com/Thomas-Yip/csci5551)
 
+<figure>
+    <img src="../../assets/img/umnPresent.jpeg" width="300" height="400">
+    <figcaption>Doing presentation in the drone lab.</figcaption>
+</figure>
+
 **Skills Earned:** EKF-SLAM, State Estimation, Robotics Algorithms.
