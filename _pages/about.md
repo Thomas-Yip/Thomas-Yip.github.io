@@ -33,7 +33,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi, I am Thomas Yip, a final year student studying computer science at [The Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/). I am interested in computer science, machine learning, and physical AI.
+Hi, I am Thomas Yip, a Computer Science graduate from [The Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/). I am interested in computer science, machine learning, and physical AI.
 
 <!-- In recent years, I am intrigued by the advancement and development in AI, and I have taken courses that are closely related such as machine learning (COMP 4211), Large Language Models (COMP 4901B) and Large-Scale Machine Learning System for Foundation Models (COMP 4551). 
 
